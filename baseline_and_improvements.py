@@ -13,10 +13,6 @@ performance of the baseline transformer model with an improved version that inco
 additional layers for feature extraction. Overall, the code provides a comprehensive framework 
 for experimenting with both neural network and combination of transformers with machine learning 
 models approaches for emotion classification tasks.
-
-NLP Concepts: Classification, Probabilistic Model, Transformers, Applications.
-
-Type of System: Kaggle GPU
 '''
 
 # import necessary libraries

@@ -7,9 +7,6 @@ using these tokenized inputs. The ensemble model combines the outputs of the two
 Features are extracted from the ensemble model for further use in traditional machine learning models like SVM, Random Forest, 
 etc. Finally, these ML models are trained and evaluated on the extracted features. The pipeline includes training, evaluation, 
 and comparison of both deep learning and traditional ML models for emotion classification.
-
-
-NLP Conecepts used: Classification, Probabilistic model, Transformers, Application (Sentiment Analysis)
 '''
 
 import torch
